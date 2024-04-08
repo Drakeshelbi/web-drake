@@ -1,0 +1,225 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"u",
+				"ul"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"met",
+				"meta"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"p",
+				"pre"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/moyhe/OneDrive/Escritorio/TLB/Restaurantes.html",
+		"/C/Users/moyhe/OneDrive/Escritorio/TLB/Index.html",
+		"/C/Users/moyhe/OneDrive/Escritorio/NP/front.html",
+		"/C/Users/moyhe/OneDrive/Escritorio/NP/style.css",
+		"/C/Users/moyhe/OneDrive/Escritorio/TLB/proyect1.html",
+		"/C/Users/moyhe/OneDrive/Documentos/ing sistemas/Programacion web/carrusel/carrusel.html",
+		"/C/Users/moyhe/OneDrive/Documentos/ing sistemas/Programacion web/carrusel/carrusel2",
+		"/C/Users/moyhe/OneDrive/Documentos/ing sistemas/Programacion web/enlc.css",
+		"/C/Users/moyhe/OneDrive/Documentos/ing sistemas/Programacion web/ejemplo35.html",
+		"/C/Users/moyhe/OneDrive/Documentos/ing sistemas/Programacion web/album.html",
+		"/C/Users/moyhe/OneDrive/Documentos/ing sistemas/Programacion web/carrusel/ejemplo32.html",
+		"/C/Users/moyhe/OneDrive/Documentos/ing sistemas/Programacion web/orden.css",
+		"/C/Users/moyhe/OneDrive/Documentos/ing sistemas/Programacion web/style.css",
+		"/C/Users/moyhe/Downloads/carrusel.html",
+		"/C/Users/moyhe/OneDrive/Documentos/ing sistemas/Programacion web/pract00.html",
+		"/C/Users/moyhe/OneDrive/Documentos/ing sistemas/Programacion web/examen.html",
+		"/C/Users/moyhe/OneDrive/Documentos/ing sistemas/Programacion web/proyecto1.html",
+		"/C/Users/moyhe/OneDrive/Documentos/ing sistemas/Programacion web/maquetacion.css",
+		"/C/Users/moyhe/OneDrive/Documentos/ing sistemas/Programacion web/colores.html",
+		"/C/Users/moyhe/OneDrive/Documentos/ing sistemas/programacion web/pract00.html",
+		"/C/Users/moyhe/OneDrive/Escritorio/TLB/Hoteles.html",
+		"/C/Users/moyhe/OneDrive/Escritorio/bluetooth_content_share.html",
+		"/C/Users/moyhe/OneDrive/Escritorio/TLB/Hospitales.html",
+		"/C/Users/moyhe/OneDrive/Escritorio/TLB/Centros C.html",
+		"/C/Users/moyhe/OneDrive/Documentos/inicio.html",
+		"/C/Users/moyhe/Downloads/Hoteles (1).html",
+		"/C/Users/moyhe/Downloads/Index (1).html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Hospitales.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
